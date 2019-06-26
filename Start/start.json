@@ -1,0 +1,9 @@
+{
+  "AppOID": "_FFFFFFFFFFFFFF00001561392313863016_",
+  "AppODN": "akaunting",
+  "deploy": [
+    "ln -fns /Code/github/akaunting/System /usr/local/apps/VishalK-LaravelApp-0019/System"
+  ],
+  "undeploy": [],
+  "UserName": "www-data"
+}
